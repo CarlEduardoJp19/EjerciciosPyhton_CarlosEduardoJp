@@ -1,5 +1,5 @@
 #Solicitar la base de un rectángulo
-base = float (input("Ingrese la base del rectángulo"));
+base = float (input("Ingrese la base del rectángulo")); #
 #Solicitar la altura de un rectángulo
 altura = float (input("Ingresese la altura del rectángulo"));
 #Calcular el perimetro de un rectángulo
